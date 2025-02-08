@@ -1,0 +1,10 @@
+# UE5 不需要提交的目录
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.idea/
+*.sln
+*.uprojectdirs
